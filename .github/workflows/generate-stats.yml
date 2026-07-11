@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=fuffypal&show_icons=true&theme=dracula&hide_border=true&title_color=BD93F9&icon_color=FF79C6
+          options: username=flaouve&show_icons=true&theme=dracula&hide_border=true&title_color=BD93F9&icon_color=FF79C6
           path: stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
