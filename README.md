@@ -14,7 +14,7 @@
 
 <div align="center">
   <p>
-    Hi, I'm <b>FluffyPal</b>! (>.<)<br>
+    Hi, I'm <b>Flaouve</b>! (>.<)<br>
     I grab whichever language I need and work my <b>Magic</b> on the screen,<br>
     all while being that <i>femboy soul</i> chilling in my own soft world! ⸝⸝ᵕᴗᵕ⸝⸝
   </p>
